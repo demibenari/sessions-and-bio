@@ -1,7 +1,8 @@
-# sessions-and-bio
+# Demi Ben-Ari's Sessions and Biography
 Technology and Public speaking talk sessions and biography.
+With addition of technical material.
 
-## Bio
+## Biography
 
 Demi Ben-Ari, Co-Founder & VP R&D @ Panorays, Google Developers Expert.
 
@@ -11,11 +12,11 @@ Co-Founder of the “Big Things” Big Data community and Google Developer Group
 Big Data Expert, but interested in all kinds of technologies, from front-end to backend, whatever moves data around.
 
 
-## Photos:
+### Photos:
 
-- [Download](./photos/demi_ben-ari_photo.jpeg)
+- Demi's Photo: [Download](./photos/demi_ben-ari_photo.jpeg)
 
-## Links:
+### Social Media Links:
 
 - Twitter: [@demibenari](https://twitter.com/demibenari)
 - GitHub: [demibenari](https://github.com/demibenari)
@@ -59,6 +60,6 @@ Scalapeño 2016: Dumping Time Series Data with Spark - English
 - [DataProc — Spark Cluster on GCP in minutes](https://medium.com/google-cloud/dataproc-spark-cluster-on-gcp-in-minutes-3843b8d8c5f8)
 
 ## Videos and Tutorials
-https://www.youtube.com/watch?v=HQTB3hlLD6E
+
 [![Apache Spark Word Count example - Spark Shell](http://img.youtube.com/vi/HQTB3hlLD6E/0.jpg)](http://www.youtube.com/watch?v=HQTB3hlLD6E)
  
