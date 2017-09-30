@@ -13,7 +13,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 
 ## Photos:
 
-- [Download](photos/demi_ben-ari_photo.jpeg)
+- [Download](./photos/demi_ben-ari_photo.jpeg)
 
 ## Links:
 
@@ -22,58 +22,43 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 - LinkedIn: [demibenari](https://www.linkedin.com/in/demibenari/)
 - Facebook: [demi.benari](https://www.facebook.com/demi.benari)
 
-
-- Lanyrd: [kazunori_279](http://lanyrd.com/profile/kazunori_279/)
-
 ## Current session topics
 
-Below is the list of my current session topics.
+### Technology
+- [Thinking DevOps in the era of the Cloud](thinking_devops_in_the_era_of_the_cloud.md)
+- [Monitoring Big Data Systems - "The Simple Way"](monitoring_big_data_systems_the_simple_way.md)
+- [Quick dive into the big data pool without drowning](quick_dive_into_the_big_data_pool_without_drowning.md)
+- [Apache Spark 101 - First Steps into distributed computing](apache_spark_101_first_steps_into_distributed_computing.md) 
+- [Containers Behaving like a Hacker with Kubernetes](containers_behaving_like_a_hacker_with_kubernetes.md)
+- [Dumping Time Series Data with Apache Spark](dumping_time_series_data_with_apache_spark.md)
+- [Zero to Hero Data Pipeline: from MongoDB to Cassandra](zero_to_hero_data_pipeline_from_mongodb_to_cassandra.md)
 
-- [Easy and fully managed distributed training with Keras and Cloud ML Engine](keras.md)
-- [BigQuery and TensorFlow: Data Warehouse + Machine Learning enables the "smart" query](BigQuery%20and%20TensorFlow.md)
-- [Real-world Machine Learning with TensorFlow and Cloud ML](TensorFlow%20and%20ML.md)
-- [Android meets TensorFlow: how to accelerate your app with AI](Android%20meets%20TensorFlow.md)
-- [Tensor Processing Unit: Google's LSI designed for neural network](TPU.md)
-- [Cloud Datalab: Jupyter with the power of BigQuery and TensorFlow](datalab.md)
+### Communities & Culture
+- [Community, Unifying the Geeks to Create Value](community_unifying_the_geeks_to_create_value.md)
+- [Know the Startup World](know_the_startup_world.md)
 
 ## Codelab material
 
 - None
 
+### Lecture YouTube videos
+
+Codemotion Rome 2017: Monitoring Big Data Systems Done The Simple Way - English
+[![Monitoring Big Data Systems Done The Simple Way  - English](http://img.youtube.com/vi/MRb129vvmoQ/0.jpg)](http://www.youtube.com/watch?v=MRb129vvmoQ)
+
+Cassandra Warsaw Meetup session YouTube video - English
+[![Cassandra Warsaw Meetup session YouTube video - English](http://img.youtube.com/vi/ta9WyFvCe1c/0.jpg)](http://www.youtube.com/watch?v=ta9WyFvCe1c)
+
+Scalapeño 2016: Dumping Time Series Data with Spark - English
+[![Scalapeño 2016: Dumping Time Series Data with Spark  - English](http://img.youtube.com/vi/QuvYj-B3Wec/0.jpg)](http://www.youtube.com/watch?v=QuvYj-B3Wec)
+
 ## Blog posts, videos and demos
 
-### 2017 blogs
+### Blog Posts
+- [Google Cloud Dataprep - Data Handling Made Easier](https://medium.com/google-cloud/google-cloud-dataprep-data-handling-made-easier-79d7c35fbbe7)
+- [DataProc — Spark Cluster on GCP in minutes](https://medium.com/google-cloud/dataproc-spark-cluster-on-gcp-in-minutes-3843b8d8c5f8)
 
-- GCP blog: [Some](https://some.com)
-
-
-### YouTube videos
-
-- [BigQuery and Cloud Machine Learning: advancing neural network predictions (Google Cloud Next '17)](https://www.youtube.com/watch?v=Ov3Om5Y_Fbg&feature=youtu.be)
-
-### 2016 
-
-### 2016 
-
-## Invited Events
-
-### 2017 (planned)
-
-- Open Source Summit North America, Los Angeles
-- Google Cloud Summit, Mumbai and Bangalore
-- ODSC Europe, London
-- VoxxedDays, Belgrade
-- Data Scientist Association Symposium, Tokyo
-- Gartner Symposium, Tokyo
-- Horizons, Vienna
-- Cloud Expo Europe, Paris
-- GOTO Berlin
-- Strata Data Conf, Singapore
-
-### 2017
-
-- Kalaari Future of AI, Bangalore
-
-### 2016
-
-- 
+## Videos and Tutorials
+https://www.youtube.com/watch?v=HQTB3hlLD6E
+[![Apache Spark Word Count example - Spark Shell](http://img.youtube.com/vi/HQTB3hlLD6E/0.jpg)](http://www.youtube.com/watch?v=HQTB3hlLD6E)
+ 

@@ -10,6 +10,10 @@ About 45 min
 
 - Not recorded yet
 
+## Slides
+
+- [Slideshre]()
+
 ## Short agenda (370 chars)
 
 Creating an MVP that is relying on multiple scripts for your backend, serving your data, back office too right? 

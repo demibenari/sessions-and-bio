@@ -8,7 +8,9 @@ About 45 min
 
 ## Video
 
-[![Cassandra Warsaw Meetup session YouTube video](http://img.youtube.com/vi/ta9WyFvCe1c/0.jpg)](http://www.youtube.com/watch?v=ta9WyFvCe1c)
+Cassandra Warsaw Meetup session YouTube video - English
+
+[![Cassandra Warsaw Meetup session YouTube video - English](http://img.youtube.com/vi/ta9WyFvCe1c/0.jpg)](http://www.youtube.com/watch?v=ta9WyFvCe1c)
 
 ## Slides
 
@@ -36,5 +38,6 @@ but would it handle massive Read / Write throughput? actually, what happens when
 We will lay out the reasons and the steps of migrating our data pipeline to Apache Cassandra in a short period without having any prior knowledge.
 We’ll list our lessons learned as well.
 
+## Talk's Headline Photo
 
-
+![alt text]( "None")

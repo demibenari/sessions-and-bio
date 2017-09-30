@@ -10,6 +10,10 @@ About 45 min
 
 - Not recorded yet
 
+## Slides
+
+- [Slideshre](https://www.slideshare.net/demibenari/bootstrapping-a-tech-community-demi-benari)
+
 ## Target audience and level
 
 Technologists, Community Leaders.
