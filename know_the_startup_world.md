@@ -1,6 +1,5 @@
 ## Title
-
-Know the Startup World
+### Know the Startup World
 
 ## Session duration
 

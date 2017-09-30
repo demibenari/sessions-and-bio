@@ -1,6 +1,5 @@
 ## Title
-
-Community, Unifying the Geeks to Create Value
+### Community, Unifying the Geeks to Create Value
 
 ## Session duration
 

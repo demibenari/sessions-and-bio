@@ -1,6 +1,5 @@
 ## Title
-
-Thinking DevOps in the era of the Cloud
+### Thinking DevOps in the era of the Cloud
 
 ## Session duration
 

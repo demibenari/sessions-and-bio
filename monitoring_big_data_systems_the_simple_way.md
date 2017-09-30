@@ -1,6 +1,5 @@
 ## Title
-
-Dumping Time Series Data with Apache Spark
+### Dumping Time Series Data with Apache Spark
 
 ## Session duration
 

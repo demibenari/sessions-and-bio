@@ -1,6 +1,5 @@
 ## Title
-
-Containers Behaving like a Hacker with Kubernetes
+### Containers Behaving like a Hacker with Kubernetes
 
 ## Session duration
 

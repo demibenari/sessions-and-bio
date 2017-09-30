@@ -1,6 +1,5 @@
-## Title
-
-Apache Spark 101 - First Steps into distributed computing
+## Title: 
+### Apache Spark 101 - First Steps into distributed computing
 
 ## Session duration
 

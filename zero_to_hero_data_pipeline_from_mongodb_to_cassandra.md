@@ -1,6 +1,5 @@
 ## Title
-
-Zero to Hero Data Pipeline: from MongoDB to Cassandra
+### Zero to Hero Data Pipeline: from MongoDB to Cassandra
 
 ## Session duration
 

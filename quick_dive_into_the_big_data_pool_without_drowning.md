@@ -1,6 +1,5 @@
 ## Title
-
-Quick dive into the big data pool without drowning
+### Quick dive into the big data pool without drowning
 
 ## Session duration
 
