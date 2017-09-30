@@ -11,7 +11,6 @@ Demi has over 10 years of experience in building various systems both from the f
 Co-Founder of the “Big Things” Big Data community and Google Developer Group Cloud.  
 Big Data Expert, but interested in all kinds of technologies, from front-end to backend, whatever moves data around.
 
-
 ### Photos:
 
 - Demi's Photo: [Download](./photos/demi_ben-ari_photo.jpeg)
@@ -23,7 +22,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 - LinkedIn: [demibenari](https://www.linkedin.com/in/demibenari/)
 - Facebook: [demi.benari](https://www.facebook.com/demi.benari)
 
-## Current session topics
+## Current Talk Proposals 
 
 ### Technology
 - [Thinking DevOps in the era of the Cloud](thinking_devops_in_the_era_of_the_cloud.md)
