@@ -60,6 +60,7 @@ Scalapeño 2016: Dumping Time Series Data with Spark - English
 
 ## Videos and Tutorials
 
-- Apache Spark Word Count example - Spark Shell
+- Apache Spark Word Count example - Spark Shell  
+
 [![Apache Spark Word Count example - Spark Shell](http://img.youtube.com/vi/HQTB3hlLD6E/0.jpg)](http://www.youtube.com/watch?v=HQTB3hlLD6E)
  
