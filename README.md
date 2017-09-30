@@ -13,7 +13,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 
 ### Photos:
 
-- Demi's Photo: [Download](./photos/demi_ben-ari_photo.jpeg)
+- Demi's Photo: [Link](./photos/demi_ben-ari_photo.jpeg)
 
 ### Social Media Links:
 
@@ -60,5 +60,6 @@ Scalapeño 2016: Dumping Time Series Data with Spark - English
 
 ## Videos and Tutorials
 
+- Apache Spark Word Count example - Spark Shell
 [![Apache Spark Word Count example - Spark Shell](http://img.youtube.com/vi/HQTB3hlLD6E/0.jpg)](http://www.youtube.com/watch?v=HQTB3hlLD6E)
  
