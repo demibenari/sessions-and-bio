@@ -1,5 +1,5 @@
 ## Title
-### Dumping Time Series Data with Apache Spark
+### Monitoring Big Data Systems Done "The Simple Way"
 
 ## Session duration
 
