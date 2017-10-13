@@ -7,10 +7,10 @@ About 45 min
 
 ## Video
 
-Codemotion Rome 2017:  
-Monitoring Big Data Systems Done The Simple Way - English
+Scalapeño 2016: 
+Dumping Time Series Data with Spark (Demi Ben Ari)
 
-[![Monitoring Big Data Systems Done The Simple Way  - English](http://img.youtube.com/vi/MRb129vvmoQ/0.jpg)](http://www.youtube.com/watch?v=MRb129vvmoQ)
+[![Scalapeño 2016: Dumping Time Series Data with Spark (Demi Ben Ari) - English](http://img.youtube.com/vi/QuvYj-B3Wec/0.jpg)](http://www.youtube.com/watch?v=QuvYj-B3Wec)
 
 ## Slides
 
