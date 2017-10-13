@@ -24,7 +24,7 @@ Intermediate level.
 - Cloud
 - Backend 
 
-## Short Abstract (370 chars)
+## Short Abstract (299 chars)
 
 The world has changed, having one huge server won’t do the job, the ability to Scale Out would be your savior. Apache Spark is a fast and general engine for big data processing, with streaming, SQL, machine learning and graph processing.
 Showing the basics of Apache Spark and distributed computing.
