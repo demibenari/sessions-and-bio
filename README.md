@@ -21,6 +21,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 - GitHub: [demibenari](https://github.com/demibenari)
 - LinkedIn: [demibenari](https://www.linkedin.com/in/demibenari/)
 - Facebook: [demi.benari](https://www.facebook.com/demi.benari)
+- Google Developers Expert: [demi-ben-ari](https://developers.google.com/experts/people/demi-ben-ari)
 
 ## Current Talk Proposals 
 
