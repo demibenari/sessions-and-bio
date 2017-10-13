@@ -24,9 +24,13 @@ Intermediate level.
 - Cloud
 - Backend 
 
-## Short Abstract (370 chars)
+## Short Abstract (297 chars)
 
-None
+Vast volumes of data is Time Series, once working with distributed systems your tackling scale and performance problems. 
+
+We'll talk about transformations we’ve made to our data model, review multiple data persistency layers, 
+
+And I’ll try NOT to answer the question “Which one of them is the Best?"
 
 ## Long Abstract
 
