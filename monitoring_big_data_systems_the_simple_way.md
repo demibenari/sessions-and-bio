@@ -25,9 +25,11 @@ Intermediate level.
 - Cloud
 - Backend 
 
-## Short Abstract (370 chars)
+## Short Abstract (291 chars)
 
-None
+When working with Big Data you discover problems you won’t find in monolithic systems, Monitoring becomes a big data problem.
+We’ll mention all of the aspects that you should consider when monitoring, covering the simplest solution common tools, 
+surprising that it comes not from an Ops Guy.
 
 ## Long Abstract
 
