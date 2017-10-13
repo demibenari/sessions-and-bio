@@ -33,8 +33,6 @@ In the talk we'll talk about all of the considerations that are needed to be tak
 Of course how can we leave out the real enabler of the whole deal, 
 "The Cloud", Giving us a tool set that makes life much easier when implementing all of these practices.
 
-Let me know if you need anything else.
-
 ## Talk's Headline Photo
 
 ![alt text]( "None")
