@@ -24,7 +24,7 @@ Intermediate level.
 
 ## Short Abstract (370 chars)
 
-None
+Lines between Dev and Ops have gotten blurry. We'll talk about all that is needed when creating a Dev and Production environment, mentioning Continuous Integration & Deployment, "DevOps", talking about some real implementations in the industry. Of course "The Cloud", that makes life much easier.
 
 ## Long Abstract
 
