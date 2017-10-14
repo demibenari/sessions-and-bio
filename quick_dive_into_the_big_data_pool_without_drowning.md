@@ -25,9 +25,10 @@ Intermediate level.
 - Cloud
 - Backend 
 
-## Short Abstract (370 chars)
+## Short Abstract (298 chars)
 
-None
+The “Big Data” hype cycle, “To do Scale”, using the coolest tools in the market, Is there really a reason for that?
+We'll overview the Big Data world, talk about the problems also. Showing Hadoop & Spark, Promise to share stories from the trenches, the “pool” thing, I don’t really know how to swim
 
 ## Long Abstract
 
