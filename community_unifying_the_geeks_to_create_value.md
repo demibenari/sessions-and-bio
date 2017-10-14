@@ -21,6 +21,15 @@ Beginner level.
 - Culture
 - Community
 
+
+## Really Short Abstract (299 chars)
+
+Running communities over 3 years, Sharing all I've learned, what it means to create a “Community”.
+You’ll be surprised how easy and hard it is at the same time. 
+Steps taken in this journey, what might kill a “Developer Community”, 
+You'll have many tools for you to be able to create a community too.
+
+
 ## Short Abstract (370 chars)
 
 After running communities over 3 years, Sharing all that I’ve learned, what it actually means to create a “Community”.  
