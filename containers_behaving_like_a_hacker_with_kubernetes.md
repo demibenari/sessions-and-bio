@@ -13,7 +13,16 @@ About 45 min
 
 - [Slideshre]()
 
-## Short agenda (370 chars)
+
+## Really Short Agenda (298 chars)
+
+Creating an MVP that is relying on multiple scripts for your backend, serving your data, back office too right? 
+it doesn't scale anymore? Evolution at Panorays, A system leveraging Kubernetes:
+Backend, Frontend, Batch Jobs and all the fun that comes with it.
+Promise to share the stupid things too.
+
+
+## Short Agenda (370 chars)
 
 Creating an MVP that is relying on multiple scripts for your backend, serving your data, back office too right? 
 Startup, Then it doesn't scale anymore? 
