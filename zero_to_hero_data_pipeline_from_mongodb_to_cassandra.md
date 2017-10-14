@@ -23,6 +23,13 @@ Intermediate level - Requires a bit of understanding in Operation systems and cl
 - DevOps
 - Big Data 
 
+## Really Short Abstract (299 chars)
+
+MongoDB is a great NoSQL database, very flexible & easy to use, but would it handle massive Read / Write throughput? 
+what happens when you need to scale everything out? 
+laying out the reasons and the steps of migrating data pipeline to Cassandra in a short period without having any prior knowledge.
+
+
 ## Short Abstract (370 chars)
 
 MongoDB is a great NoSQL database, it’s very flexible and easy to use,
