@@ -10,7 +10,7 @@ About 45 min
 Codemotion Rome 2017:  
 Monitoring Big Data Systems Done The Simple Way - English
 
-[![Monitoring Big Data Systems Done The Simple Way  - English](http://img.youtube.com/vi/MRb129vvmoQ/0.jpg)](http://www.youtube.com/watch?v=MRb129vvmoQ)
+[![Monitoring Big Data Systems Done The Simple Way  - English](http://img.youtube.com/vi/yEDzHx3U39Q/0.jpg)](https://www.youtube.com/watch?v=yEDzHx3U39Q)
 
 ## Slides
 
