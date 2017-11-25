@@ -11,6 +11,7 @@ DLD Tel Aviv Innovation Festival 2016:
 Quick dive into the Big Data pool without drowning – English
 
 CyberArk's technology Conference 2017:
+
 [![Quick dive into the Big Data pool without drowning - Demi Ben Ari - Panorays (Eng)](http://img.youtube.com/vi/4nI4yHrYmEY/0.jpg)](http://www.youtube.com/watch?v=4nI4yHrYmEY)
 
 DLD Tel Aviv Innovation Festival 2016:
