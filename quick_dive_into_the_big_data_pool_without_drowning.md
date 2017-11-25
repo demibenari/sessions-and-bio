@@ -10,7 +10,12 @@ About 45 min
 DLD Tel Aviv Innovation Festival 2016:  
 Quick dive into the Big Data pool without drowning – English
 
-[![Scalapeño 2016: Dumping Time Series Data with Spark  - English](http://img.youtube.com/vi/6i3Hp-Ozkeg/0.jpg)](http://www.youtube.com/watch?v=6i3Hp-Ozkeg)
+CyberArk's technology Conference 2017:
+[![Quick dive into the Big Data pool without drowning - Demi Ben Ari - Panorays (Eng)](http://img.youtube.com/vi/4nI4yHrYmEY/0.jpg)](http://www.youtube.com/watch?v=4nI4yHrYmEY)
+
+DLD Tel Aviv Innovation Festival 2016:
+
+[![Quick dive into the Big Data pool without drowning – English](http://img.youtube.com/vi/6i3Hp-Ozkeg/0.jpg)](http://www.youtube.com/watch?v=6i3Hp-Ozkeg)
 
 ## Slides
 
