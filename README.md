@@ -44,7 +44,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 
 ### Lecture YouTube videos
 
-Codemotion Rome 2017: Monitoring Big Data Systems Done The Simple Way - English
+Codemotion Milan 2017: Monitoring Big Data Systems Done The Simple Way - English
 [![Monitoring Big Data Systems Done The Simple Way  - English](http://img.youtube.com/vi/yEDzHx3U39Q/0.jpg)](https://www.youtube.com/watch?v=yEDzHx3U39Q)
 
 Cassandra Warsaw Meetup session YouTube video - English
