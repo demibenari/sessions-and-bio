@@ -65,3 +65,8 @@ Scalapeño 2016: Dumping Time Series Data with Spark - English
 
 [![Apache Spark Word Count example - Spark Shell](http://img.youtube.com/vi/HQTB3hlLD6E/0.jpg)](http://www.youtube.com/watch?v=HQTB3hlLD6E)
  
+## PodCasts
+
+- Monitoring Big Data Systems Done 'The Simple Way' - Codemotion Berlin 2017
+
+[![Monitoring Big Data Systems Done 'The Simple Way'](https://voicerepublic.com/media/W1siZiIsIjIwMTcvMTAvMjMvNjh0dGpqOXR5dl9EZW1pX2Jlbl9BcmkuanBnIl1d?sha=53a97ead54ce2ed8)](https://voicerepublic.com/talks/monitoring-big-data-systems-done-the-simple-way)
