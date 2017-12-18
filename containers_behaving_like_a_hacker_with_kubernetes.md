@@ -50,6 +50,7 @@ Intermediate level
 
 - Infrastructure
 - Backend
+- Cyber Security
 
 ## Talk's Headline Photo
 

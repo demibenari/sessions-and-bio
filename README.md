@@ -28,6 +28,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 ### Technology Talks
 - [Thinking DevOps in the era of the Cloud](thinking_devops_in_the_era_of_the_cloud.md)
 - [Monitoring Big Data Systems - "The Simple Way"](monitoring_big_data_systems_the_simple_way.md)
+- [Hacking for Fun & Profit: The Kubernetes Way](hacking_for_fun_profit_the_kubernetes_way.md)
 - [Quick dive into the big data pool without drowning](quick_dive_into_the_big_data_pool_without_drowning.md)
 - [Apache Spark 101 - First Steps into distributed computing](apache_spark_101_first_steps_into_distributed_computing.md) 
 - [Containers Behaving like a Hacker with Kubernetes](containers_behaving_like_a_hacker_with_kubernetes.md)
