@@ -7,7 +7,7 @@ With addition of technical material.
 Demi Ben-Ari, Co-Founder & VP R&D @ Panorays, Google Developers Expert.
 
 Software engineer, Entrepreneur and an International Tech Speaker.  
-Demi has over 10 years of experience in building various systems both from the field of near real time applications and Big Data distributed systems.   
+Demi has over 12 years of experience in building various systems both from the field of near real time applications and Big Data distributed systems.   
 Co-Founder of the “Big Things” Big Data community and Google Developer Group Cloud.  
 Big Data Expert, but interested in all kinds of technologies, from front-end to backend, whatever moves data around.
 
