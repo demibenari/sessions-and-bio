@@ -11,7 +11,7 @@ About 45 min
 
 ## Slides
 
-- [Slideshre]()
+- [Slideshre](https://www.slideshare.net/demibenari/hacking-for-fun-profit-the-kubernetes-way-demi-benari-panorays)
 
 
 ## Really Short Agenda (305 chars)
