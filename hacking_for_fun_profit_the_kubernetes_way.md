@@ -11,7 +11,7 @@ About 45 min
 
 ## Slides
 
-- [Slideshre](https://www.slideshare.net/demibenari/hacking-for-fun-profit-the-kubernetes-way-demi-benari-panorays)
+- [Slideshre](https://www.slideshare.net/demibenari/hacking-for-fun-profit-the-kubernetes-way-tal-demi-at-panorays-pyconil-2018)
 
 
 ## Really Short Agenda (305 chars)
