@@ -1,5 +1,5 @@
 ## Title
-### Kubernetes fueled Hackers
+### Kubernetes Fueled Hackers
 
 ## Session duration
 
