@@ -1,5 +1,5 @@
 ## Title
-### Containers Behaving like a Hacker with Kubernetes
+### Kubernetes fueled Hackers
 
 ## Session duration
 
@@ -11,7 +11,7 @@ About 45 min
 
 ## Slides
 
-- [Slideshre]()
+- [Slideshre](https://www.slideshare.net/demibenari/hacking-for-fun-profit-the-kubernetes-way-tal-demi-at-panorays-pyconil-2018)
 
 
 ## Really Short Agenda (298 chars)
@@ -22,24 +22,33 @@ Backend, Frontend, Batch Jobs and all the fun that comes with it.
 Promise to share the stupid things too.
 
 
+## Really Short Agenda (305 chars)
+
+To defend against attacks, think like a hacker. But do you need to be a DevOps expert? 
+Using Docker & Kubernetes we've allowed them to concentrate on writing hacker “tasks”. 
+Saving DevOps hassle and removing 2 barriers: 
+1) Long and risky deployment processes.
+2) Low transparency within the production.
+
 ## Short Agenda (370 chars)
 
-Creating an MVP that is relying on multiple scripts for your backend, serving your data, back office too right? 
-Startup, Then it doesn't scale anymore? 
-Evolution at Panorays, A production system leveraging the containers orchestration framework, Kubernetes:  
-Backend, Frontend, Batch Jobs and all the fun that comes with it.   
+To defend against attacks, think like a hacker. But do you need to be a DevOps expert? 
+Using Docker & Kubernetes on Google Cloud we've allowed them to concentrate on writing hacker “tasks”. 
+Saving a lot of DevOps hassle and removing 2 barriers: 
+1) Long and risky deployment processes.
+2) Low transparency within the production.
 Promise to share the stupid things too.
 
 
 ## Long Agenda
 
-Creating an MVP that is relying on multiple scripts to run on servers that all together compile your backend solution,  
-then you come to a point when you need to serve your data on the web,  
-of course you need your back office systems support too right?  
-Which startup didn’t get to a point that it just didn’t scale anymore?   
-In the talk we’ll tell the story of evolving a functioning system at Panorays,  
-A solution compiled out of all of the beating parts of a production system leveraging containers and an awesome orchestration  
-framework called Kubernetes: Backend servers, Frontend, Batch Jobs and all the fun that comes with it. 
+To defend against attacks, think like a hacker. But does that mean you need to be a DevOps expert? 
+Security researchers today need to discover new attack techniques. 
+However, much of their focus is diverged to backend coding. 
+We share how to build an infrastructure for researchers that allows them concentrate on business logic and writing hacker “tasks”. 
+Using Docker and Kubernetes on Google Cloud, these tasks can then be performed in parallel and without a lot of DevOps hassle. 
+Our technique removes two common barriers: 
+first, long and risky deployment processes and second, low transparency within the production system.
 
 Promise to share the stupid things too.
 
@@ -54,5 +63,22 @@ Intermediate level
 
 ## Talk's Headline Photo
 
-![alt text](photos/Hacker-Kubernetes.png "Containers Behaving like a Hacker with Kubernetes")
+![alt text](photos/Hacker-Kubernetes.png "Hacking for Fun & Profit: The Kubernetes Way")
 
+
+### Extra
+
+What are the primary objectives of this session?
+Kubernetes use-case which frees security professionals from the need to handle any infrastructure and easily write production-ready code.
+
+What pain points are you planning to address?
+1. Today’s security professionals need to develop production code, not only POCs.
+2. Cyber-security risk modeling takes time
+3. Job scheduling processes are typically performed in a sequential manner rather than efficient parallel scheduling.
+
+
+What three to five takeaways would you share with your audience?
+1. Remove security researchers from the need to write infrastructure code
+2. Increase efficiency by running security activities in parallel
+3. Generate more accurate risk modeling results through automation
+## Talk's Headline Photo
