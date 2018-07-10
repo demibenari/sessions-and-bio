@@ -35,6 +35,9 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 - [Dumping Time Series Data with Apache Spark](dumping_time_series_data_with_apache_spark.md)
 - [Zero to Hero Data Pipeline: from MongoDB to Cassandra](zero_to_hero_data_pipeline_from_mongodb_to_cassandra.md)
 
+### Cyber Security Talks
+- [Hacker vs Company, Reducing the Risk](hacker_vs_company_reducing_the_risk.md)
+
 ### Communities & Culture Talks
 - [Community, Unifying the Geeks to Create Value](community_unifying_the_geeks_to_create_value.md)
 - [Know the Startup World](know_the_startup_world.md)
