@@ -81,4 +81,3 @@ What three to five takeaways would you share with your audience?
 1. Remove security researchers from the need to write infrastructure code
 2. Increase efficiency by running security activities in parallel
 3. Generate more accurate risk modeling results through automation
-## Talk's Headline Photo
