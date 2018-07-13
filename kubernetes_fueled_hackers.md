@@ -7,7 +7,10 @@ About 45 min
 
 ## Video
 
-- Not recorded yet
+PyCon Israel 2018:  
+Hacking for Fun & Profit: The Kubernetes Way - English
+
+[![Hacking for Fun & Profit: The Kubernetes Way - English](http://img.youtube.com/vi/qLMP3tkGuLM/0.jpg)](https://www.youtube.com/watch?v=qLMP3tkGuLM)
 
 ## Slides
 
