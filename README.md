@@ -48,6 +48,11 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 
 ### Lecture YouTube videos
 
+PyCon Israel 2018:  
+Hacking for Fun & Profit: The Kubernetes Way - English
+
+[![Hacking for Fun & Profit: The Kubernetes Way - English](http://img.youtube.com/vi/qLMP3tkGuLM/3.jpg)](https://www.youtube.com/watch?v=qLMP3tkGuLM)
+
 Codemotion Milan 2017: Monitoring Big Data Systems Done The Simple Way - English
 [![Monitoring Big Data Systems Done The Simple Way  - English](http://img.youtube.com/vi/yEDzHx3U39Q/0.jpg)](https://www.youtube.com/watch?v=yEDzHx3U39Q)
 
