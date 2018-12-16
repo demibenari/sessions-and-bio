@@ -26,17 +26,25 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 ## Current Talk Proposals 
 
 ### Technology Talks
-- [Thinking DevOps in the era of the Cloud](thinking_devops_in_the_era_of_the_cloud.md)
-- [Monitoring Big Data Systems - "The Simple Way"](monitoring_big_data_systems_the_simple_way.md)
-- [Hacking for Fun & Profit: The Kubernetes Way](hacking_for_fun_profit_the_kubernetes_way.md)
-- [Quick dive into the big data pool without drowning](quick_dive_into_the_big_data_pool_without_drowning.md)
-- [Apache Spark 101 - First Steps into distributed computing](apache_spark_101_first_steps_into_distributed_computing.md) 
+
 - [Kubernetes Fueled Hackers](kubernetes_fueled_hackers.md)
+- [Monitoring Big Data Systems - "The Simple Way"](monitoring_big_data_systems_the_simple_way.md)
+- [Thinking DevOps in the era of the Cloud](thinking_devops_in_the_era_of_the_cloud.md)
+- [Quick dive into the big data pool without drowning](quick_dive_into_the_big_data_pool_without_drowning.md)
+- [Hacking for Fun & Profit: The Kubernetes Way](hacking_for_fun_profit_the_kubernetes_way.md)
+- [Apache Spark 101 - First Steps into distributed computing](apache_spark_101_first_steps_into_distributed_computing.md) 
 - [Dumping Time Series Data with Apache Spark](dumping_time_series_data_with_apache_spark.md)
 - [Zero to Hero Data Pipeline: from MongoDB to Cassandra](zero_to_hero_data_pipeline_from_mongodb_to_cassandra.md)
 
 ### Cyber Security Talks
 - [Hacker vs Company, Reducing the Risk](hacker_vs_company_reducing_the_risk.md)
+- [Hacker vs Company, Cloud Cyber Security Automated with Kubernetes](hacker_vs_company_cloud_cyber_security_automated_with_kubernetes.md)
+
+
+### Entrepreneurship Talks
+- [All I wanted is to found a startup](all_I_wanted_is_to_found_a_startup.md)
+- [Build it and It will come - Today’s Tech Stack](build_it_and_it_will_come_todays_tech_stack.md)
+
 
 ### Communities & Culture Talks
 - [Community, Unifying the Geeks to Create Value](community_unifying_the_geeks_to_create_value.md)

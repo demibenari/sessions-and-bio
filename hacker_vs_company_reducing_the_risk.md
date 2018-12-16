@@ -8,6 +8,7 @@ About 45 min
 ## Video
 
 - Not recorded yet
+[![All I wanted is to found a startup - English](http://img.youtube.com/vi/GulWLKvSZMM/0.jpg)](https://www.youtube.com/watch?v=GulWLKvSZMM)
 
 ## Slides
 
