@@ -7,7 +7,7 @@ About 45 min
 
 ## Video
 
-[![All I wanted is to found a startup - English](http://img.youtube.com/vi/GulWLKvSZMM/0.jpg)](https://www.youtube.com/watch?v=GulWLKvSZMM)
+[![Hacker vs Company, Cloud Cyber Security Automated with Kubernetes - English](http://img.youtube.com/vi/WiopVoPGvmA/0.jpg)](https://www.youtube.com/watch?v=WiopVoPGvmA)
 
 
 ## Slides
