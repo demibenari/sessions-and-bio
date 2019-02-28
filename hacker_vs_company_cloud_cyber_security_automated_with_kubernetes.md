@@ -7,8 +7,7 @@ About 45 min
 
 ## Video
 
-- Not recorded yet
-[![All I wanted is to found a startup - English](http://img.youtube.com/vi/GulWLKvSZMM/0.jpg)](https://www.youtube.com/watch?v=GulWLKvSZMM)
+[![Hacker vs Company, Cloud Cyber Security Automated with Kubernetes - English](http://img.youtube.com/vi/WiopVoPGvmA/0.jpg)](https://www.youtube.com/watch?v=WiopVoPGvmA)
 
 
 ## Slides
@@ -27,6 +26,10 @@ About 45 min
 
 ## Short Agenda (370 chars)
 
+Looking at the ongoing risks on any company today, no matter how much time and money you'll invest in cyber security as CISO or any security practitioner, You always arrive to same conclusion, it's not enough to achieve high standard of security, you have to do it 24/7.
+In the talk we'll give a brief overview on different aspects of Cyber Security in the modern world.
+The "How": We'll share how to build an infrastructure for security researchers that will allow them to concentrate on business logic and writing hacker “tasks”. Using Docker and Kubernetes on Google Cloud.
+Lessons learned promised and a glimpse of the Hackers view, because it's always interesting to see how you look from the outside.
 
 
 ## Long Agenda
