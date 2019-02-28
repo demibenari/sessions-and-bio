@@ -1,5 +1,5 @@
 ## Title
-### z
+### Why running developer communities made me a better engineer
 
 ## Session duration
 
@@ -39,12 +39,13 @@ by the end of the talk you'll have as many tools as possible for you to be able 
 
 ## Long Abstract
 
-After running developer communities over the past 5 years, meeting a lot of great people and learning a lot of things about the Israeli Hi-Tech ecosystem,  
-I’ll share all that I’ve learned about what it actually means to create what is called a “Community”.  
-The value that you as a community lead can give to the people in it and the things that you can gain as a geek out of it.   
-You’ll be surprised to learn how easy and hard it can be at the same time.   
-I’ll tell about the steps that I’ve taken in this journey, what in my opinion might kill the concept of “Developer Community”,   
-by the end of the talk you'll have as many tools as possible for you to be able to create a community of your own.
+After running developer communities over the past 5 years, meeting a lot of great people and learning a lot of things 
+about the Israeli Hi-Tech ecosystem, I’ll share all that I’ve learned about what it actually means to create what is 
+called a “Community”. The value that you as a community lead can give to the people in it and the things that you can 
+gain as a geek out of it. You’ll be surprised to learn how easy and hard it can be at the same time.   
+I’ll tell about the steps that I’ve taken in this journey, what in my opinion might kill the concept of 
+“Developer Community”, by the end of the talk you'll have as many tools as possible for you to be able to create a 
+community of your own.
 
 ## Talk's Headline Photo
 
