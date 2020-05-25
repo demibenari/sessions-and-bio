@@ -4,7 +4,7 @@ With addition of technical material.
 
 ## Biography
 
-Demi Ben-Ari, Co-Founder & VP R&D @ Panorays, Google Developers Expert.
+Demi Ben-Ari, Co-Founder & CTO @ Panorays, Google Developers Expert.
 
 Software engineer, Entrepreneur and an International Tech Speaker.  
 Demi has over 12 years of experience in building various systems both from the field of near real time applications and Big Data distributed systems.   
