@@ -39,6 +39,7 @@ Big Data Expert, but interested in all kinds of technologies, from front-end to 
 ### Cyber Security Talks
 - [Hacker vs Company, Reducing the Risk](hacker_vs_company_reducing_the_risk.md)
 - [Hacker vs Company, Cloud Cyber Security Automated with Kubernetes](hacker_vs_company_cloud_cyber_security_automated_with_kubernetes.md)
+- [Security & Data Privacy in the Cloud - Risk Based Approach](security_&_data_privacy_in_the_cloud-risk_based_approach.md)
 
 
 ### Entrepreneurship Talks
