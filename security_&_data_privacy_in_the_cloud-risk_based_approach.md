@@ -7,7 +7,7 @@ About 45 min
 
 ## Video
 
-
+[![All I wanted is to found a startup - English](http://img.youtube.com/vi/wdfkwehmVqY/0.jpg)](https://www.youtube.com/watch?v=wdfkwehmVqY)
 
 ## Slides
 
@@ -35,7 +35,6 @@ Beginner level
 ## Talk's Headline Photo
 
 ![alt text]( "Cyber Cyber Cyber")
-
 
 ### Extra
 
